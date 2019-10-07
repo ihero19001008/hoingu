@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hỏi ngu</string>
+    <string name="str_ngu">Ngu: %s</string>
+    <string name="banner_home_footer">ca-app-pub-70913</string>
+    <string name="interstitial_full_screen">ca-app-pub-70</string>
+    <string name="app_id">ca-app-pub-709134895965667</string>
+    <string name="app_id_video">ca-app-pub-70913</string>
+</resources>
